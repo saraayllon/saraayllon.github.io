@@ -52,7 +52,7 @@ a:hover { text-decoration: underline; }
 
 /* photo banner (home page) */
 .banner {
-  position: relative; height: 440px; background: #3b4a4a url("files/sara-ayllon-banner.jpg") center 35% / cover no-repeat;
+  position: relative; height: 480px; background: #3b4a4a url("files/sara-ayllon-banner.jpg") center 8% / cover no-repeat;
 }
 .banner::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.45) 0%, rgba(0,0,0,.05) 55%, rgba(0,0,0,0) 100%); }
 .banner .wrap { position: relative; z-index: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 42px; }
