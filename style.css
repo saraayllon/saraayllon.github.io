@@ -1,0 +1,105 @@
+/* Design D (30 Sep 2026): layout inspired by pedroreybiel.com — top bar, uppercase menu,
+   photo banner with name, bio + news columns — with teal/amber accents.
+   Previous design C is kept in D:\ClaudeProjects\webpage\variants\C_final_style.css */
+:root {
+  --bg: #ffffff;
+  --text: #2b2f33;
+  --muted: #6b7178;
+  --accent: #0e6b6b;      /* links */
+  --accent-2: #f2b134;    /* highlights */
+  --rule: #e6e8ea;
+  --topbar: #0b3d3d;
+  --topbar-text: #cfe3e0;
+  --soft: #f4f7f6;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15191b; --text: #e3e6e8; --muted: #9aa3a9; --accent: #5cc8c0; --accent-2: #f5c35c;
+    --rule: #2a3034; --topbar: #0a2c2c; --topbar-text: #b9d6d2; --soft: #1c2224;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.7 "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+a { color: var(--accent); text-decoration: none; font-weight: 600; }
+a:hover { text-decoration: underline; }
+.wrap { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+
+/* thin top bar with profile links */
+.topbar { background: var(--topbar); color: var(--topbar-text); font-size: .8rem; }
+.topbar .wrap { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 18px; padding-top: 7px; padding-bottom: 7px; }
+.topbar a { color: var(--topbar-text); font-weight: 500; letter-spacing: .02em; }
+.topbar a:hover { color: #fff; text-decoration: none; }
+.topbar .cv { color: var(--accent-2); font-weight: 700; }
+
+/* menu bar */
+.menubar { background: var(--bg); border-bottom: 1px solid var(--rule); }
+.menubar .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 6px 28px; }
+.menubar .name { color: var(--text); font-weight: 600; font-size: 1.05rem; letter-spacing: .01em; padding: 18px 0; }
+.menubar .name:hover { text-decoration: none; }
+.page-index .menubar .name { visibility: hidden; }   /* the banner already shows the name */
+@media (max-width: 860px) { .page-index .menubar .name { display: none; } }
+.menubar nav { display: flex; flex-wrap: wrap; gap: 0 30px; }
+.menubar nav a {
+  color: var(--text); font-weight: 600; font-size: .82rem; letter-spacing: .12em; text-transform: uppercase;
+  padding: 22px 0 19px; border-bottom: 3px solid transparent;
+}
+.menubar nav a:hover { color: var(--accent); text-decoration: none; }
+.menubar nav a.here { border-bottom-color: var(--accent-2); }
+
+/* photo banner (home page) */
+.banner {
+  position: relative; height: 440px; background: #3b4a4a url("files/sara-ayllon-banner.jpg") center 35% / cover no-repeat;
+}
+.banner::after { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(0,0,0,.45) 0%, rgba(0,0,0,.05) 55%, rgba(0,0,0,0) 100%); }
+.banner .wrap { position: relative; z-index: 1; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; padding-bottom: 42px; }
+.banner .bname { color: #fff; font-size: 3.2rem; font-weight: 300; line-height: 1.1; letter-spacing: .01em; text-shadow: 0 2px 12px rgba(0,0,0,.35); }
+.banner .credit { color: rgba(255,255,255,.75); font-size: .72rem; margin-top: 10px; }
+
+/* page title band (other pages) */
+.pagehead { background: var(--soft); border-bottom: 1px solid var(--rule); }
+.pagehead h1 { margin: 0; padding: 34px 0 30px; font-size: 2.1rem; font-weight: 300; color: var(--text); }
+
+main { padding-top: 10px; padding-bottom: 50px; }
+h1, h2, h3 { line-height: 1.25; }
+main h1 { display: none; }   /* page titles are shown in the band above */
+h2 { font-size: 1.35rem; font-weight: 400; margin: 1.8em 0 .7em; padding-bottom: .35em; border-bottom: 2px solid var(--accent-2); display: inline-block; }
+h3 { font-size: 1rem; font-weight: 700; margin: 1.6em 0 .4em; color: var(--accent); letter-spacing: .04em; }
+ul { padding-left: 1.2em; }
+li { margin: .5em 0; }
+
+/* home: two columns, bio left, news right */
+.home { display: grid; grid-template-columns: minmax(0, 1fr) 330px; gap: 0 48px; }
+.home .lead { font-size: 1.9rem; font-weight: 300; line-height: 1.3; margin: 1.3em 0 .8em; color: var(--text); }
+.home .lead span { display: block; color: var(--muted); font-size: 1.35rem; }
+.home .news { border-left: 1px solid var(--rule); padding-left: 32px; }
+.home .news h2 { font-size: 1.9rem; font-weight: 300; border: 0; margin: 1.1em 0 .4em; padding: 0; }
+.home .news ul { list-style: none; padding: 0; }
+.home .news li { margin: 0 0 1.3em; font-size: .93rem; }
+.home .contact { margin-top: 2.2em; padding: 18px 22px; background: var(--soft); border-left: 4px solid var(--accent); font-size: .95rem; }
+.home .contact p { margin: .3em 0; }
+.page-index main ul li strong:first-child, .page-projects main ul li strong:first-child { color: var(--accent); }
+.home .news li strong:first-child { display: block; color: var(--text); }
+
+/* numbered lists: no bullets, hanging indent */
+.page-publications main ul, .page-working-papers main ul, .page-projects main ul,
+.page-talks main ul, .page-media main ul { list-style: none; padding-left: 1.5em; }
+.page-publications main li, .page-working-papers main li, .page-projects main li,
+.page-talks main li, .page-media main li { text-indent: -1.5em; }
+.page-publications main li strong, .page-talks main li strong { font-weight: 600; }
+
+footer.site { border-top: 1px solid var(--rule); color: var(--muted); font-size: .8rem; }
+footer.site .wrap { padding-top: 18px; padding-bottom: 30px; }
+
+@media (max-width: 860px) {
+  .home { grid-template-columns: 1fr; }
+  .home .news { border-left: 0; padding-left: 0; border-top: 1px solid var(--rule); }
+  .banner { height: 300px; }
+  .banner .bname { font-size: 2.3rem; }
+  .menubar nav { gap: 0 18px; }
+  .menubar nav a { padding: 12px 0 10px; }
+  .menubar .name { padding: 12px 0 0; }
+}
