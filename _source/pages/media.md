@@ -2,19 +2,12 @@
 
 ## Media (a selection of recent appearances)
 
-- [SARA AYLLÓN GATNAU](/)
-- [link](/cdn-cgi/l/email-protection#54273526357a352d38383b3a142130337a313021)
-- About me
-- Publications
-- Working Papers
-- Projects
-- Contracts
-- *["El drama cada vez más visible de las mujeres sin hogar: "No hay criatura más vulnerable en la calle que ellas"](https://www.elmundo.es/papel/historias/2026/02/06/6979ec5efdddff6c068b4597.html)"* Media: El Mundo (newspaper), 6 February 2026
-- *["La crisis de la vivienda está detrás del 62% de casos de personas sin hogar en Catalunya"](https://www.elperiodico.com/es/sociedad/20251201/crisis-vivienda-arroja-calle-62-personas-sin-hogar-124295819)* Media: El Periódico (newspaper), 1 December 2025
-- *"[La pobreza infantil no es una condena, podemos reducirla](https://www.elperiodico.com/es/sociedad/20251017/sara-ayllon-pobreza-reduccion-122682171)" * Media: El Periódico (newspaper), 17 October 2025
-- ["Romper el círculo de la pobreza, el principal reto social"](https://www.lavanguardia.com/vida/20251017/11169992/romper-circulo-pobreza-principal-reto-social-smr.html) Media: La Vanguardia (newspaper), 17 October 2025
-- *"El 60% dels centres públics de secundària no té servei de menjador escolar"* Media: TV3 (tv channel), 11 December 2023
-- *["Las familias de clase media y alta usan más el comedor escolar que las de clase baja. No tiene ningún sentido"](https://elpais.com/educacion/2023-11-20/sara-ayllon-investigadora-las-familias-de-clase-media-y-alta-usan-mas-el-comedor-escolar-que-las-de-clase-baja-no-tiene-ningun-sentido.html)* Media: El País (newspaper), 20 November 2023
+- **6 February 2026:** "El drama cada vez más visible de las mujeres sin hogar: 'No hay criatura más vulnerable en la calle que ellas'", *El Mundo*. [[link](https://www.elmundo.es/papel/historias/2026/02/06/6979ec5efdddff6c068b4597.html)]
+- **1 December 2025:** "La crisis de la vivienda está detrás del 62% de casos de personas sin hogar en Catalunya", *El Periódico*. [[link](https://www.elperiodico.com/es/sociedad/20251201/crisis-vivienda-arroja-calle-62-personas-sin-hogar-124295819)]
+- **17 October 2025:** "La pobreza infantil no es una condena, podemos reducirla" (interview), *El Periódico*. [[link](https://www.elperiodico.com/es/sociedad/20251017/sara-ayllon-pobreza-reduccion-122682171)]
+- **17 October 2025:** "Romper el círculo de la pobreza, el principal reto social", *La Vanguardia*. [[link](https://www.lavanguardia.com/vida/20251017/11169992/romper-circulo-pobreza-principal-reto-social-smr.html)]
+- **11 December 2023:** "El 60% dels centres públics de secundària no té servei de menjador escolar", *TV3*.
+- **20 November 2023:** "Las familias de clase media y alta usan más el comedor escolar que las de clase baja. No tiene ningún sentido" (interview), *El País*. [[link](https://elpais.com/educacion/2023-11-20/sara-ayllon-investigadora-las-familias-de-clase-media-y-alta-usan-mas-el-comedor-escolar-que-las-de-clase-baja-no-tiene-ningun-sentido.html)]
 
 ## Blog posts
 
