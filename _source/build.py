@@ -20,7 +20,7 @@ PROFILES = [('Google Scholar', 'https://scholar.google.com/citations?user=O_1DEp
             ('ORCID', 'https://orcid.org/0000-0002-3338-1183'), ('RePEc', 'https://ideas.repec.org/e/pay16.html'),
             ('IZA', 'https://www.iza.org/people/fellows/5118/sara-ayllon'), ('NBER', 'https://www.nber.org/people/sara_ayllon'),
             ('Bluesky', 'https://bsky.app/profile/ayllonsara.bsky.social')]
-CV_PDF = 'files/cv_english_long_2026_09_30.pdf'
+CV_PDF = 'files/cv_english_long_2026_10_10.pdf'
 LINKS = ''.join('<a href="%s">%s</a>' % (u, n) for n, u in PROFILES) + '<a class="cv" href="%s">CV (pdf)</a>' % CV_PDF
 
 

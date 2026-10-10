@@ -25,7 +25,7 @@ I am an IZA Research Fellow and a member of the research group [EQUALITAS](http:
 <div class="contact">
 <p><strong>Contact</strong></p>
 <p>Departament d'Economia, Universitat de Girona, C/ Universitat de Girona 10, 17003 Girona (Spain)</p>
-<p><a href="mailto:sara.ayllon@udg.edu">sara.ayllon@udg.edu</a> · Office: +34 972 418 779</p>
+<p><a href="mailto:sara.ayllon@udg.edu">sara.ayllon@udg.edu</a></p>
 </div>
 </div>
 <aside class="news">
