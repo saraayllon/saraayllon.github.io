@@ -32,6 +32,7 @@ I am an IZA Research Fellow and a member of the research group [EQUALITAS](http:
 
 ## (Only good) News
 
+- **October 2026:** New working paper! 'Poverty and psychological resilience', IZA Discussion Paper no. 19001. [[link](https://docs.iza.org/dp19001.pdf)]
 - **September 2026:** New blog post! 'Beques menjador a Barcelona: milloren el català i el benestar dels infants' (with Samuel Lado), Diari de l'Educació. [[link](https://educa.barcelona/2026/09/01/beques-menjador-a-barcelona-milloren-el-catala-i-el-benestar-dels-infants/)]
 - **July 2026:** New funding! Inequality and public policy: The role of education, gender and technology, Spanish Ministry of Science and Innovation (2026–2029) (PID2025-169915NB-C54) (PI).
 - **June 2026:** New publication! Arcarons, A.; Ayllón, S.; Blanquer, M.; Giamello, C.; Lado, S.; Lafuente, M.; Salvador, G.; San Vicente, J. (2026). 'School Meals Case Study: Spain [Estudio de caso sobre alimentación escolar: España]', London School of Hygiene and Tropical Medicine, London.
