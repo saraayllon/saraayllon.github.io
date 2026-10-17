@@ -43,8 +43,6 @@ I am an IZA Research Fellow and a member of the research group [EQUALITAS](http:
 - **December 2025:** New report! 'Estratègies contra el sensellarisme', Departament de Drets Socials i Inclusió (in Catalan). [[pdf](files/estrategies-contra-el-sensellarisme.pdf)]
 - **November 2025:** New chapter! Ayllón, S.; Lanau, A. (2025). 'Poverty is inherited', Report on exclusion and social development in Catalonia, Fundación FOESSA (in Catalan). [[pdf](files/catalunya_cat_informe-sobre-exclusio-y-desarrollo-social_2025_web.pdf)]
 - **September 2025:** New report! 'Invertir en un futur just: prestacions econòmiques contra la pobresa infantil' (with Pau Marí-Klose, Alba Lanau and Albert Arcarons), Departament de Drets Socials i Inclusió (in Catalan).
-- **July 2025:** New working paper! 'The causal impact of school-meal programmes on children in developed economies: A meta-analysis' (with Samuel Lado), IZA Discussion Paper no. 18042. [[link](https://www.iza.org/publications/dp/18042/the-causal-impact-of-school-meal-programmes-on-children-in-developed-economies-a-meta-analysis)]
-- **June 2025:** New working paper! 'Sorting' out gender discrimination and disadvantage: Evidence from student evaluations of teaching' (with Lars Lefgren, Richard Patterson, Olga Stoddard and Nicolás Urdaneta Andrade), NBER Working Paper 33911. [[link](https://www.nber.org/papers/w33911)]
 
 </aside>
 </div>
