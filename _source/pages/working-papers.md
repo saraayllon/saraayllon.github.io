@@ -6,6 +6,5 @@
 - Ayllón, S.; Lado, S. (2025). 'More than just lunch: School-meal subsidies and language proficiency', IZA Discussion Paper no. 17631. [[link](https://docs.iza.org/dp17631.pdf)] ***R&R Journal of Population Economics***
 - Ayllón, S.; Zamora, C. (2025). 'Gender bias in student evaluations of teaching: Do debiasing campaings work?', IZA Discussion Paper no. 17632. [[link](https://docs.iza.org/dp17632.pdf)]
 - Ayllón, S.; Kirkpatrick, L.; Plum, A. (2025). 'Child penalties and marital dissolution', IZA Discussion Paper no. 17658. [[link](https://www.iza.org/publications/dp/17658/child-penalties-and-marriage-dissolution)]
-- Ayllón, S.; Brugarolas, P.; Lado, S. (2023). 'The level of inequality of opportunity in Spain: an estimation using Artificial Intelligence', Papeles de Trabajo, Insituto de Estudios Fiscales, 06/2023 [[link](https://www.ief.es/docs/destacados/publicaciones/papeles_trabajo/2023_06.pdf)].
 - Ayllón, S.; Plum, A. (2019). ‘Unemployment scarring over the life-cycle’, mimeo.
 - Ayllón, S. (2020). ‘Child gender effects in the formation of stepfamilies’, mimeo.
