@@ -47,7 +47,7 @@ def render(md):
         if cur is not None:
             items.append(cur); cur = None
         if items is not None:
-            out.append('<ul>\n%s\n</ul>' % '\n'.join('<li>%s</li>' % inline(i).replace('\x00BR', '<br>') for i in items))
+            out.append('<ul>\n%s\n</ul>' % '\n'.join('<li>%s</li>' % inline(i).replace('\x01', '<br>') for i in items))
             items = None
 
     for line in md.split('\n'):
@@ -62,7 +62,7 @@ def render(md):
             if cur is not None: items.append(cur)
             cur = s[2:].strip(); continue
         if s.startswith('  ') and cur is not None:
-            cur += '\x00BR' + s.strip() if s.strip().startswith('*Media') else ' ' + s.strip()
+            cur += '\x01' + s.strip() if s.strip().startswith('*Media') else ' ' + s.strip()
             continue
         flush_list()
         if s.startswith('<'):

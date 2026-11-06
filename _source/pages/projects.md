@@ -33,10 +33,10 @@
 
 - **2026–2027:** ‘Paternity leave reforms in Spain: Changes over time and keys for policy redesign’, Instituto de Estudios Fiscales (PI).
 - **2025–2026:** ‘Labour market conditions of workers in the third sector’, Fundació La Caixa (PI).
-- **2024–2025:** Paternity leave reforms in Spain: Impacts on fertility and labour market outcomes, Instituto de Estudios Fiscales (PI).
+- **2024–2025:** ‘Paternity leave reforms in Spain: Impacts on fertility and labour market outcomes’, Instituto de Estudios Fiscales (PI).
 - **2022–2023:** ‘Inequality of opportunity in Spain: an estimation using Artificial Intelligence’, Instituto de Estudios Fiscales (PI).
 - **2021–2022:** ‘The intergenerational transmission of poverty in Spain’, Spanish Ministry of Social Rights and Agenda 2030 (PI).
-- **2019–2021:** Contract for the ‘First report on well-being and social progress in Catalonia’, Department of the Vice-presidency, Generalitat de Catalunya (PI).
+- **2019–2021:** ‘First report on well-being and social progress in Catalonia’, Department of the Vice-presidency, Generalitat de Catalunya (PI).
 - **2010–2011:** ‘Gender wage discrimination and poverty in Catalonia’, Catalan Institute of Women, Catalan Government (PI).
 - **2008–2010:** ‘Child poverty in Catalonia’, Deputy Ombudsman for Children’s Rights, The Catalan Ombudsman Office (PI).
 - **2006–2007:** ‘Income poverty dynamics in Catalonia’, Jaume Bofill Foundation, Barcelona.
