@@ -48,7 +48,7 @@
 - [Ch#4] Ayllón, S. (2017). 'Growing up in Poverty: Children and the Great Recession in Spain' in *Children of Austerity. The Impact of the Great Recession on Child Poverty in Rich Countries*, ed. B. Cantillon, Y. Chzhen, S. Handa and B. Nolan, UNICEF and Oxford University Press, pp. 219-242 (chapter 10). [[pdf](files/children_of_austerity.pdf)]
 - [Ch#3] Ayllón, S.; Ramos, X. (2008). 'Poverty Dynamics in Catalonia. Who enters, escapes and is trapped in poverty?' in *Life Conditions and Inequalities in Catalonia 2001-2005*, Ed. Mediterrània, Collection Polítiques n. 65, Volume 1, pp. 17-112 (in Catalan). [[pdf](files/2008_bofill.pdf)]
 - [Ch#2] Ayllón, S. (2005). 'Youth poverty and deprivation in Catalonia', in *Youth in Catalonia 2005 Report*, Catalan Youth Observatory, Collection Estudis n. 17, Generalitat de Catalunya, pp. 271-296 (in Catalan). [[link](http://treballiaferssocials.gencat.cat/web/.content/JOVENTUT_documents/arxiu/publicacions/col_estudis/ESTUDIS17.pdf)]
-- [Ch#1] Ayllón, S.; Mercader, M.; Ramos, X. (2005). 'Poverty in Catalonia' in *Social Structure and Inequalities in Catalonia*, Ed. Mediterrània, Collection Polítiques n. 46, Volume 2, pp. 9-158 (in Catalan). [[link](https://www.fbofill.cat/sites/default/files/Politiques_46_volum_2.pdf)]
+- [Ch#1] Ayllón, S.; Mercader, M.; Ramos, X. (2005). 'Poverty in Catalonia' in *Social Structure and Inequalities in Catalonia*, Ed. Mediterrània, Collection Polítiques n. 46, Volume 2, pp. 9-158 (in Catalan). [[pdf](files/ayllon_mercader_ramos_2005_bofill.pdf)]
 
 ## Other publications and reports
 
