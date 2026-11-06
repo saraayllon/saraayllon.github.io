@@ -7,7 +7,7 @@ I am a poverty scholar at heart and an applied economist by training. Currently,
 
 Most of my research focuses on the Economics of Poverty and Inequality, Economics of the Family, Labour Economics, Health Economics and Applied Microeconometrics.
 
-I am an IZA Research Fellow and a member of the research group [EQUALITAS](http://www.equalitas.es/).
+I am an [IZA Research Fellow](https://www.iza.org/people/fellows/5118/sara-ayllon) and a member of the research group [EQUALITAS](http://www.equalitas.es/).
 
 ## Appointments and policy engagement
 
