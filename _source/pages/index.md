@@ -32,6 +32,7 @@ I am an [IZA Research Fellow](https://www.iza.org/people/fellows/5118/sara-ayllo
 
 ## (Only good) News
 
+- **November 2026:** Invited talk! 'Gender bias in teaching evaluations: Do anti-bias interventions work?', seminar 'Under the magnifying glass: How does gender influence the way we evaluate and are evaluated?', Institute of Educational Sciences (ICE), Universitat de Girona.
 - **October 2026:** New working paper! 'Poverty and psychological resilience', IZA Discussion Paper no. 19001. [[link](https://docs.iza.org/dp19001.pdf)]
 - **September 2026:** New blog post! 'Beques menjador a Barcelona: milloren el català i el benestar dels infants' (with Samuel Lado), Diari de l'Educació. [[link](https://educa.barcelona/2026/09/01/beques-menjador-a-barcelona-milloren-el-catala-i-el-benestar-dels-infants/)]
 - **July 2026:** New funding! Inequality and public policy: The role of education, gender and technology, Spanish Ministry of Science and Innovation (2026–2029) (PID2025-169915NB-C54) (PI).
