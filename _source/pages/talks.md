@@ -141,7 +141,8 @@
 
 ## Invited seminars
 
-- [16.] Maastricht University, ROA (Maastricht, January 2027) (scheduled)
+- [17.] Maastricht University, ROA (Maastricht, January 2027) (scheduled)
+- [16.] Universitat de Girona, Institute of Educational Sciences (ICE) (Girona, November 2026)
 - [15.] Universidad Pública de Navarra (Pamplona, March 2025)
 - [14.] Universitat Autònoma de Barcelona (Bellaterra, May 2024)
 - [13.] Universidad de Oviedo (Oviedo, November 2023)
@@ -157,7 +158,3 @@
 - [3.] Government Institute for Economic Research (Helsinki, September 2009)
 - [2.] Universitat Autònoma de Barcelona (Bellaterra, May 2009)
 - [1.] University of Joensuu (Joensuu, October 2007)
-
-## Other invited talks
-
-- November 2026: 'Gender bias in teaching evaluations: Do anti-bias interventions work?', seminar 'Under the magnifying glass: How does gender influence the way we evaluate and are evaluated?', Institute of Educational Sciences (ICE), Universitat de Girona (Girona)
