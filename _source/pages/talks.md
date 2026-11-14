@@ -157,3 +157,7 @@
 - [3.] Government Institute for Economic Research (Helsinki, September 2009)
 - [2.] Universitat Autònoma de Barcelona (Bellaterra, May 2009)
 - [1.] University of Joensuu (Joensuu, October 2007)
+
+## Other invited talks
+
+- November 2026: 'Gender bias in teaching evaluations: Do anti-bias interventions work?', seminar 'Under the magnifying glass: How does gender influence the way we evaluate and are evaluated?', Institute of Educational Sciences (ICE), Universitat de Girona (Girona)
